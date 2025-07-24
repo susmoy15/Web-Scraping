@@ -19,7 +19,8 @@ This notebook covers:
 - Requests
 - Selenium
 - Pandas
-- Google Colab
+- scrapy
+- Google colab
 
 ## 🛠️ Installation
 
